@@ -39,7 +39,7 @@ addons/
  
 - Use this command to run server:
 ```
-python odoo\odoo-bin -c odoo/debian/odoo.conf -d dbodoo16 -u demo
+python odoo\odoo-bin -c odoo/debian/odoo.conf -d {your odoo db name} -u {custom module name}
 ```
 
 
